@@ -1,0 +1,25 @@
+{
+  "name": "error-ctx",
+  "version": "0.0.1",
+  "description": "adds a ctx field to promise errors that captures context information, allowing for more comprehensive stack traces via getErrorJson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8balloon/error-ctx.git"
+  },
+  "keywords": [
+    "promise",
+    "error",
+    "stack",
+    "trace"
+  ],
+  "author": "Ethan Gregory Clark <ethangclark@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/8balloon/error-ctx/issues"
+  },
+  "homepage": "https://github.com/8balloon/error-ctx#readme"
+}
